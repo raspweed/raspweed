@@ -4,5 +4,5 @@ my name is raspweed but you can call me raspw! im 17yo and started coding later 
 if you have anything to talk... just mail me! 
 # raspweed1@gmail.com
 
-# DONT FORGET TO CHECK IT 👇
+# TAKE A LOOK AT IT 👇
    # https://raspweed.vercel.app
