@@ -5,4 +5,4 @@ if you have anything to talk... just mail me!
 # raspweed1@gmail.com
 
 # DONT FORGET TO CHECK IT 👇
-   # raspweed.vercel.app
+   # https://raspweed.vercel.app
