@@ -19,7 +19,7 @@
 
 > *"as you guys see... i love Marin Kitagawa so much! My Dress Up Darling is not my favorite but she is definetly my favorite!"*
 
-Hey! I'm **raspweed**, a junior class student diving deep into **numerical studies** at school. When I'm not crunching numbers, you'll find me exploring the world of **technology** — it's hands-down my favorite hobby and passion.
+Hey! I'm **raspweed**, a junior class student diving deep into **numerical studies** at school. When I'm not crunching numbers, you'll find me exploring the world of **technology** it's hands-down my favorite hobby and passion.
 
 I'm all about that balance between **digital** and **physical**:
 - 🖥️ Building cool stuff with code
@@ -64,13 +64,6 @@ Built with **Marin Kitagawa's aesthetic** in mind, this site features:
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=raspweed&show_icons=true&theme=rose_pine&hide_border=true&bg_color=fff5f7&title_color=e91e63&icon_color=f48fb1&text_color=2d132c" height="180" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=raspweed&layout=compact&theme=rose_pine&hide_border=true&bg_color=fff5f7&title_color=e91e63&text_color=2d132c" height="180" />
-
 </div>
 
 ---
@@ -92,6 +85,6 @@ Built with **Marin Kitagawa's aesthetic** in mind, this site features:
 
 ### 💖 Made with love by **raspweed** and **Kimi** 🎀
 
-*"Keep building, keep dreaming, keep being awesome!"*
+*"Everything is possible!"*
 
 </div>
